@@ -16,9 +16,12 @@ public class git {
         System.out.println("hello git12");
         System.out.println("hello git13");
         System.out.println("hello git14");
+        System.out.println("hello git15");
+        //hello test
     }
     public void test(){
         int a = 0 ;
+        a+= 10;
         a++;
         System.out.println(a);
     }
